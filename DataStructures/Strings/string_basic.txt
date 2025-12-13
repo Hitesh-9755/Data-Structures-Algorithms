@@ -1,0 +1,27 @@
+
+1. What is string ?
+- It is sequence of character 
+- It is immutable 
+- not primitive 
+
+
+2. Types of initilization and Declaration ?
+- There are two type 
+-String literal 
+-With the help of new keyword 
+
+
+3.What is String Method ?
+- String Method is a build in funtion that help to manipulate and process String Efficiently
+like -
+- Length (length) – Returns the number of characters in a string.
+- Concatenation (+, concat()) – Combines two strings.
+- Substring Extraction (substring(), slice()) – Retrieves a portion of a string.
+- Character Access (charAt(), []) – Gets a character at a specific index.
+- Case Conversion (toUpperCase(), toLowerCase()) – Changes the case of a string.
+- Trim (trim()) – Removes whitespace from the beginning and end.
+- Replace (replace()) – Replaces occurrences of a substring.
+- Split (split()) – Splits a string into an array based on a delimiter.
+- Search (indexOf(), includes(), startsWith(), endsWith()) – Finds substrings within a string.
+
+

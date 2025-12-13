@@ -1,0 +1,37 @@
+
+ Arrays - An array is a data structure that stores a fixed-size sequential collection of elements of the same type
+
+
+# Declaration
+int[] number ;
+
+# Initialization
+ number = new int[5];
+
+# Declaration + Initialization 
+ int[] number ={2,3,5,66,3};
+
+ # For Knowing  length
+ int n = number.length
+
+
+
+### Key Concepts to Learn:
+
+* Array declaration, initialization, and basic operations
+* Traversing and printing arrays
+* Searching (linear search, binary search)
+* Sorting basics (bubble sort, selection sort, insertion sort)
+* Multi-dimensional arrays
+* Common array problems: finding max/min, sum, average, frequency count
+* Two-pointer technique (for problems like pair sums, etc.)
+* Sliding window technique (basic introduction)
+
+### Practice Problems:
+
+* Find maximum and minimum elements in an array
+* Reverse an array
+* Move all zeroes to the end
+* Find pairs with given sum (two-pointer approach)
+* Rotate array by k steps
+* Merge two sorted arrays
