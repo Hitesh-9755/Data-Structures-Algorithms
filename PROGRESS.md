@@ -9,6 +9,12 @@ Track your daily problem-solving progress here. Update this file whenever you so
 
 ## Progress Log
 
+### August 2026
+
+| Date | Problem Name | Difficulty | Category | Time | Space | Notes |
+|------|--------------|-----------|----------|------|-------|-------|
+| 2026-08-17 | Two Sum | Easy | Array | O(N) | O(N) | HashMap solution for optimal search |
+
 ### December 2025
 
 | Date | Problem Name | Difficulty | Category | Time | Space | Notes |
